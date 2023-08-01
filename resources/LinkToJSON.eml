@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Date: Mon, 31 Jul 2023 23:31:36 -0600
+Message-ID: <CAPv8FccFkJCDd3FRWSiFXLMLchRN_ODnh2oRKzkVFpxv--933A@mail.gmail.com>
+Subject: LinkToJSON
+From: David Jotam Funes Urrutia <dajofu04@gmail.com>
+To: David Jotam Funes Urrutia <dajofu04@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000005c5f590601d5dc05"
+
+--0000000000005c5f590601d5dc05
+Content-Type: text/plain; charset="UTF-8"
+
+https://raw.githubusercontent.com/djfunes/test-files/main/external.json
+
+--0000000000005c5f590601d5dc05
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr"><a href="https://raw.githubusercontent.com/djfunes/test-files/main/external.json">https://raw.githubusercontent.com/djfunes/test-files/main/external.json</a><br></div>
+
+--0000000000005c5f590601d5dc05--

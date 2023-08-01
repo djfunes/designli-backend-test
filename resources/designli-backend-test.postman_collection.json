@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "3bd79e24-7e4f-435e-b63b-ce18acff2dc8",
+		"name": "designli-backend-test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "MailParse",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/D:/Downloads/JsonMailContent.eml"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:3000/mail/parse",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"mail",
+						"parse"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

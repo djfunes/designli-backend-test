@@ -1,0 +1,19 @@
+MIME-Version: 1.0
+Date: Tue, 1 Aug 2023 10:06:03 -0600
+Message-ID: <CAPv8Fcc62YY00PM71uk1Cj2PnAgRXvX2GZPDibTfRvbakB07_g@mail.gmail.com>
+Subject: NoJSONContent
+From: David Jotam Funes Urrutia <dajofu04@gmail.com>
+To: David Jotam Funes Urrutia <dajofu04@gmail.com>
+Content-Type: multipart/alternative; boundary="0000000000005537800601deb964"
+
+--0000000000005537800601deb964
+Content-Type: text/plain; charset="UTF-8"
+
+This mail does not contains json
+
+--0000000000005537800601deb964
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">This mail does not contains json</div>
+
+--0000000000005537800601deb964--

@@ -1,0 +1,41 @@
+MIME-Version: 1.0
+Date: Tue, 1 Aug 2023 10:41:54 -0600
+Message-ID: <CAPv8FccUnaJD8==Dt-sR9sxUTFAHLC+ah8xA6bBPc4w5UOYSXg@mail.gmail.com>
+Subject: JsonMailContent
+From: David Jotam Funes Urrutia <dajofu04@gmail.com>
+To: David Jotam Funes Urrutia <dajofu04@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000829e110601df395b"
+
+--000000000000829e110601df395b
+Content-Type: text/plain; charset="UTF-8"
+
+{
+  "aliceblue": "#f0f8ff",
+  "antiquewhite": "#faebd7",
+  "aqua": "#00ffff",
+  "aquamarine": "#7fffd4",
+  "azure": "#f0ffff",
+  "beige": "#f5f5dc",
+  "bisque": "#ffe4c4",
+  "black": "#000000",
+  "blanchedalmond": "#ffebcd",
+  "blue": "#0000ff",
+  "blueviolet": "#8a2be2",
+  "brown": "#a52a2a"
+}
+
+--000000000000829e110601df395b
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">{<br>=C2=A0 &quot;aliceblue&quot;: &quot;#f0f8ff&quot;,<br=
+>=C2=A0 &quot;antiquewhite&quot;: &quot;#faebd7&quot;,<br>=C2=A0 &quot;aqua=
+&quot;: &quot;#00ffff&quot;,<br>=C2=A0 &quot;aquamarine&quot;: &quot;#7fffd=
+4&quot;,<br>=C2=A0 &quot;azure&quot;: &quot;#f0ffff&quot;,<br>=C2=A0 &quot;=
+beige&quot;: &quot;#f5f5dc&quot;,<br>=C2=A0 &quot;bisque&quot;: &quot;#ffe4=
+c4&quot;,<br>=C2=A0 &quot;black&quot;: &quot;#000000&quot;,<br>=C2=A0 &quot=
+;blanchedalmond&quot;: &quot;#ffebcd&quot;,<br>=C2=A0 &quot;blue&quot;: &qu=
+ot;#0000ff&quot;,<br>=C2=A0 &quot;blueviolet&quot;: &quot;#8a2be2&quot;,<br=
+>=C2=A0 &quot;brown&quot;: &quot;#a52a2a&quot;,<br>}<br></div>
+
+--000000000000829e110601df395b--

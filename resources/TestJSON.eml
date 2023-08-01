@@ -1,0 +1,32 @@
+MIME-Version: 1.0
+Date: Mon, 31 Jul 2023 23:14:58 -0600
+Message-ID: <CAPv8FceuW+Az3dyOLCxs3achn77mPEJHo2Q09QMp3t5JhtkK2Q@mail.gmail.com>
+Subject: TestJSON
+From: David Jotam Funes Urrutia <dajofu04@gmail.com>
+To: David Jotam Funes Urrutia <dajofu04@gmail.com>
+Content-Type: multipart/mixed; boundary="000000000000dc7fef0601d5a003"
+
+--000000000000dc7fef0601d5a003
+Content-Type: multipart/alternative; boundary="000000000000dc7fec0601d5a001"
+
+--000000000000dc7fec0601d5a001
+Content-Type: text/plain; charset="UTF-8"
+
+Find the attached JSON
+
+--000000000000dc7fec0601d5a001
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Find the attached JSON</div>
+
+--000000000000dc7fec0601d5a001--
+--000000000000dc7fef0601d5a003
+Content-Type: application/json; name="book.json"
+Content-Disposition: attachment; filename="book.json"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_lkruhquk0
+Content-ID: <f_lkruhquk0>
+
+ew0KCSJ0aXRsZSI6IkhhcnJ5IFBvdHRlciBhbmQgdGhlIFBob2VuaXggT3JkZXIiLA0KCSJhdXRo
+b3IiOiAiSi5LLiBSb3dsaW5nIiwNCgkiZ2VucmUiOiAiRmFudGFzeSINCn0=
+--000000000000dc7fef0601d5a003--
